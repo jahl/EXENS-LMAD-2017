@@ -28,8 +28,13 @@ Guía para el examen EXENS de la carrera LMAD, periodo Agosto-Diciembre 2017
   * #### [Manejo de Flujo de Trabajo en una Producción de Animación 3D](Area2/Arte3D/FlujoTrabajo.md) ####
 
 ### Área III. Interactividad ###
-* #### [Sub-área 1. Videojuegos](Area1/Subarea1.md) ####
-* #### [Sub-área 2. Contenido](Area3/Subarea2.md) ####
+* #### [Sub-área 1. Videojuegos](Area3/Videojuegos/) ####
+  * #### [Programación con Directx 11](Area3/Videojuegos/ProgramaciónDX11.md) ####
+  * #### [Desarrollar Algoritmos que Generen Primitivos Gráficos](Area3/Videojuegos/AlgoritmosPrimitivos.md) ####
+* #### [Sub-área 2. Contenido](Area3/Contenido/) ####
+  * #### [Escribir un Guion y Dirigir una Producción](Area3/Contenido/Guionismo.md) ####
+  * #### [Producir y Publicar Contenidos Bajo la Animación, el Video o la Narrativa.](Area3/Contenido/ProducirPublicar.md) ####
+
 
 ### ¿Cómo Contribuir? ###
 * #### [Guía para el contribuidor.](CONTRIBUTING.md) ####
