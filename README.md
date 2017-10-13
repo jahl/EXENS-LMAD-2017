@@ -11,6 +11,9 @@ Guía para el examen EXENS de la carrera LMAD, periodo Agosot-Diciembre 2017
   * #### [Manejo Visual de un Programa](Area1/ProgramacionCPlusPlus/ManejoVisual.md) ####
 * #### [Sub-área 2. Programación Web](Area1/ProgramacionWeb/) ####
   * #### [Programación Web](Area1/ProgramacionWeb/ProgramacionWeb.md) ####
+  * #### [Programación Estructurada Web](Area1/ProgramacionWeb/ProgramacionEstructuradaWeb.md) ####
+  * #### [Programación Gráfica Web](Area1/ProgramacionWeb/ProgramacionGraficaWeb.md) ####
+  
   
 ### Área II. Arte Digital ###
 * #### [Sub-área 1. Arte 2D](Area2/Arte2D/) ####
