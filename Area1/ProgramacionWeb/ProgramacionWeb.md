@@ -19,8 +19,11 @@
     - **Regla:** Una regla en CSS es un bloque de código que ayuda a definir un conjunto de atributos visuales para un elemento de HTML.
     
       Ejemplo:  `p {  //La regla de estilo comienza por un selector
+      
         color: red;   //Después, dentro de llaves se coloca 1 o más atributos en el formato ATRIBUTO:VALOR;
+        
         font-size: 12px;
+        
       }`
       
     - **Selector:** Un identificador que CSS usa para saber a cual elemento(s) aplicar las reglas de estilo definidas.
