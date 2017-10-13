@@ -40,7 +40,7 @@
       
       **Selectores**
       
-      - *Global:* Todos los elementos en la página serán afectados por el estilo.
+      - **Global:** Todos los elementos en la página serán afectados por el estilo.
       
       Ejemplo 
       ```CSS
@@ -49,7 +49,7 @@
       }
       ```
       
-      - *Etiqueta:*  La regla relacionada a este selector será aplicada a todos los elementos de esta etiqueta.
+      - **Etiqueta:**  La regla relacionada a este selector será aplicada a todos los elementos de esta etiqueta.
       
       Ejemplo 
       ```CSS
@@ -58,7 +58,7 @@
       }
       ```
       
-      - *ID:* El ID de un elemento es un atributo único, por lo que podemos usarlo para aplicar una regla a exclusivamente ese elemento.
+      - **ID:** El ID de un elemento es un atributo único, por lo que podemos usarlo para aplicar una regla a exclusivamente ese elemento.
       
       Ejemplo 
       ```CSS
@@ -66,7 +66,7 @@
         ...
       }
       ```
-      - *Clase:* La Clase de un elemento es un atributo que puede compartir con otros elementos, por lo que podemos usarlo para aplicar una regla a un grupo de elementos.
+      - **Clase:** La Clase de un elemento es un atributo que puede compartir con otros elementos, por lo que podemos usarlo para aplicar una regla a un grupo de elementos.
       
       Ejemplo 
       ```CSS
@@ -75,7 +75,7 @@
       }
       ```
       
-       - *Atributo:* Cuando queremos seleccionar a todos los elementos que tengan un atributo en especifico.
+       - **Atributo:** Cuando queremos seleccionar a todos los elementos que tengan un atributo en especifico.
       
       Ejemplo 
       ```CSS
