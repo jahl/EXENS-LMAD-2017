@@ -8,7 +8,7 @@ Guía para el examen EXENS de la carrera LMAD, periodo Agosot-Diciembre 2017
   * #### [Implementación de Algoritmos](Area1/ProgramacionCPlusPlus/ImplementacionAlgoritmos.md) ####
   * #### [Programación Estructurada](Area1/ProgramacionCPlusPlus/ProgrmacionEstructurada.md) ####
   * #### [Programación Gráfica](Area1/ProgramacionCPlusPlus/ProgramacionGrafica.md) ####
-  * #### [Manejo Visual](Area1/ProgramacionCPlusPlus/ManejoVisual.md) ####
+  * #### [Manejo Visual de un Programa](Area1/ProgramacionCPlusPlus/ManejoVisual.md) ####
 * #### [Sub-área 2. Programación Web](Area1/ProgramacionWeb/) ####
   * #### [Programación Web](Area1/ProgramacionWeb/ProgramacionWeb.md) ####
   
