@@ -16,7 +16,10 @@ Guía para el examen EXENS de la carrera LMAD, periodo Agosot-Diciembre 2017
   * #### [Integrar Elementos Innovadores y Agradables a la Vista](Area2/Arte2D/IntegrarElementos.md) ####
   * #### [Integración de Audio, Voz y Expresiones Emotivas en los Personajes](Area2/Arte2D/IntegracionAudioVozExpresiones.md) ####
   * #### [Manejo de Flujo de Trabajo en una Producción de Animación 2D](Area2/Arte2D/FlujoTrabajo.md) ####
-* #### [Sub-área 2. Arte 3D](Area2/Subarea2.md) ####
+* #### [Sub-área 2. Arte 3D](Area2/Arte3D/) ####
+  * #### [Animación Tridimensional](Area2/Arte3D/AnimacionTridimensional.md) ####
+  * #### [Modelar, Animar, Texturizar](Area2/Arte3D/ModelarAnimarTexturizar.md) ####
+  * #### [Manejo de Flujo de Trabajo en una Producción de Animación 3D](Area2/Arte3D/FlujoTrabajo.md) ####
 
 ### Área III. Interactividad ##
 * #### [Sub-área 1. Videojuegos](Area1/Subarea1.md) ####
