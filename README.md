@@ -13,7 +13,10 @@ Guía para el examen EXENS de la carrera LMAD, periodo Agosto-Diciembre 2017
   * #### [Programación Web](Area1/ProgramacionWeb/ProgramacionWeb.md) ####
   * #### [Programación Estructurada Web](Area1/ProgramacionWeb/ProgramacionEstructuradaWeb.md) ####
   * #### [Programación Gráfica Web](Area1/ProgramacionWeb/ProgramacionGraficaWeb.md) ####
-  
+* #### [Sub-área 3. Ciencias](Area1/Ciencias/) ####
+  * #### [Aplicación con Gráficas por Computadora](Area1/Ciencias/AplicacionGraficas.md) ####
+  * #### [Simular Eventos Físicos con Algoritmos Matemáticos](Area1/Ciencias/SimulacionFisica.md) ####
+  * #### [Matemáticas Relacionadas con los Videojuegos](Area1/Ciencias/MatematicasVideojuegos.md) ####
   
 ### Área II. Arte Digital ###
 * #### [Sub-área 1. Arte 2D](Area2/Arte2D/) ####
