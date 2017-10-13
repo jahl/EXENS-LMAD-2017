@@ -8,7 +8,15 @@
   
   Ejemplo:
   
-  **Complejidad O(n):**
+  
+  **Complejidad O(1): (Tiempo Constante)**
+  Imaginemos que queremos ver si un entero es par o impar
+  ```javascript
+    var isEven = (integer%2) == 0; 
+  ```
+  Este algoritmo tienen una complejidad O(1), ya que el tiempo de ejecución es constante, sin importar que número le proporcionemos a la función.
+  
+  **Complejidad O(n): (Tiempo Linear)**
   Imaginemos que tenemos un arreglo de tamaño "n", el cual recorreremos con un ciclo for:
  ```javascript
   for(var i = 0; i < n; i++) {
@@ -17,7 +25,7 @@
   ```
   Este algoritmo tiene una complejidad de O(n), ya que el tiempo de ejecución aumentará de manera líneal a la cantidad de elementos que el arreglo tenga.
   
-  **Complejidad O(n2):**
+  **Complejidad O(n2): (Tiempo Cuadratico)**
   Imaginemos que tenemos una matriz de tamaño "NxN", la cual recorreremos con un ciclo for:
  ```javascript
   for(var i = 0; i < n; i++) {
