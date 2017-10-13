@@ -2,8 +2,10 @@
 
 ### Integrar Elementos Innovadores y Agradables a la Vista: ###
 **Conceptos notables:**
-  - **Composición:** N/A.
-  - **Paleta de Colores:** N/A.
+  - **Composición:** La composición es la forma en que se encuadra y ubican los objetos comprendidos en una imagen. Se define entonces, como el acto de encontrar un punto de vista que sitúa todos los elementos en una posición visualmente atractiva para el espectador. Al componer una imagen, se estructuran los elementos con la finalidad de lograr impacto al momento de transmitir un mensaje visual.
+Dentro de la animación, la posibilidad de variar la posición de la cámara para seguir el desarrollo de la acción y resaltar distintos aspectos de la escena le da un nuevo nivel de significado al encuadre. 
+
+  - **Paleta de Colores:** Son los colores elegidos para una imagen, ilustración, animación, interfaz, etc. Se eligen acorde a la armonía que crean entre ellos, así como seguir la teoría del color sobre qué transmite cada uno y así lograr que complementen al dibujo o imagen con su composición, acción y mensaje.
   
     **12 Principios de la Animación:** 
     - **Squash and Stretch:** Simular que los objetos son flexibles para dar exageración y ganar fluidez en movimientos.
