@@ -5,6 +5,9 @@ Guía para el examen EXENS de la carrera LMAD, periodo Agosot-Diciembre 2017
 ### Área I. Programación ##
 * #### [Sub-área 1. Programación C++](Area1/ProgramacionCPlusPlus/) ####
   * #### [Programación de Medio Nivel](Area1/ProgramacionCPlusPlus/ProgramacionMedioNivel.md) ####
+  * #### [Implementación de Algoritmos](Area1/ProgramacionCPlusPlus/ImplementacionAlgoritmos.md) ####
+  * #### [Programación Estructurada](Area1/ProgramacionCPlusPlus/ProgrmacionEstructurada.md) ####
+  * #### [Programación Gráfica](Area1/ProgramacionCPlusPlus/ProgramacionGrafica.md) ####
 
 ### Área II. Arte Digital ##
 * #### [Sub-área 1. Arte 2D](Area2/Subarea1.md) ####
