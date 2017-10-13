@@ -1,6 +1,7 @@
 ## Sub-área 2. Arte 3D ##
 
 ### Manejo de Flujo de Trabajo en una Producción de Animación 3D: ###
+**Pasos:**
 * **Etapa de Concepto:** Se establece una historia y después se adapta a un guion.
 * **Etapa de diseño:** Se crean los personajes, assets y escenarios, con turn-around para poder modelarlos en 3D, además con sus paletas de colores
 * **Storyboard:**  Después se hace un storyboard en el cual se plantea la duración de escenas, composición (encuadre, tomas, etc), la acción, en cada escena se describe la acción, transición y se colocan notas y el diálogo (de haberlo).
