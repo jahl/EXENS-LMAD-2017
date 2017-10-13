@@ -4,10 +4,10 @@
 **Definición:** Se refiere al desarrollo de páginas y aplicaciones para una red publica (internet), o una red privada (intranet).
 
 **Conceptos notables:**
-  -**URL:** Uniform Resourse Locators. Se le llama así a la secuencia de caracteres que sigue un estándar y que permite denominar recursos dentro del entorno de Internet para que puedan ser localizados.
-	-**HTTP:** Hypertext Transfer Protocol. Protocolo de transferencia donde se utiliza un sistema mediante el cual se permite la transferencia de información entre diferentes servicios y los clientes que utilizan páginas web.
-  -**Servidor web o servidor HTTP:** Programa informático que procesa una aplicación del lado del servidor, realizando conexiones bidireccionales o unidireccionales y síncronas o asíncronas con el cliente y generando o cediendo una respuesta en cualquier lenguaje o Aplicación del lado del cliente. 
-	-**Cliente:** Aplicación informática u ordenador que consume un servicio remoto en otro ordenador conocido como servidor, normalmente a través de una red de telecomunicaciones. También se puede definir un cliente es cualquier cosa (que no sea un servidor) que se conecta a un servidor.
+  - **URL:** Uniform Resourse Locators. Se le llama así a la secuencia de caracteres que sigue un estándar y que permite denominar recursos dentro del entorno de Internet para que puedan ser localizados.
+  - **HTTP:** Hypertext Transfer Protocol. Protocolo de transferencia donde se utiliza un sistema mediante el cual se permite la transferencia de información entre diferentes servicios y los clientes que utilizan páginas web.
+  - **Servidor web o servidor HTTP:** Programa informático que procesa una aplicación del lado del servidor, realizando conexiones bidireccionales o unidireccionales y síncronas o asíncronas con el cliente y generando o cediendo una respuesta en cualquier lenguaje o Aplicación del lado del cliente. 
+  - **Cliente:** Aplicación informática u ordenador que consume un servicio remoto en otro ordenador conocido como servidor, normalmente a través de una red de telecomunicaciones. También se puede definir un cliente es cualquier cosa (que no sea un servidor) que se conecta a un servidor.
   - **HTML:** _Hypertext Markup Language_, es el lenguaje de marcado estándar para definir la estructura semántica de páginas y aplicaciones web, en otras palabras, define qué elementos estarán en la página, y cuál será la relación entre los mismos. 
     **Markup:**
     - **Etiquetas:** Conocidas como _elements_, usualmente consisten de una etiqueta de apertura y otra de cierre, y sirven para definir un elemento de HTML en la página.
