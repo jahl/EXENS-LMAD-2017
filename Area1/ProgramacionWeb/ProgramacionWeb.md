@@ -4,8 +4,9 @@
 **Definición:** Se refiere al desarrollo de páginas y aplicaciones para una red publica (internet), o una red privada (intranet).
 
 **Conceptos notables:**
-  - **URL:** _Uniform Resourse Locators_. Se le llama así a la secuencia de caracteres que sigue un estándar y que permite denominar recursos dentro del entorno de Internet para que puedan ser localizados.
+  - **URL:** _Uniform Resource Locators_. Se le llama así a la secuencia de caracteres que sigue un estándar y que permite denominar recursos dentro del entorno de Internet para que puedan ser localizados.
   - **HTTP:** _Hypertext Transfer Protocol_. Protocolo de transferencia donde se utiliza un sistema mediante el cual se permite la transferencia de información entre diferentes servicios y los clientes que utilizan páginas web.
+  - **HTTPS:** _HTTP Secure_. Protocolo de comunicación segura sobre la red.
   - **Servidor Web o Servidor HTTP:** Programa informático que procesa una aplicación del lado del servidor, realizando conexiones bidireccionales o unidireccionales y síncronas o asíncronas con el cliente y generando o cediendo una respuesta en cualquier lenguaje o Aplicación del lado del cliente. 
   - **Cliente:** Aplicación informática u ordenador que consume un servicio remoto en otro ordenador conocido como servidor, normalmente a través de una red de telecomunicaciones. También se puede definir un cliente es cualquier cosa (que no sea un servidor) que se conecta a un servidor.
   - **HTML:** _Hypertext Markup Language_, es el lenguaje de marcado estándar para definir la estructura semántica de páginas y aplicaciones web, en otras palabras, define qué elementos estarán en la página, y cuál será la relación entre los mismos. 
@@ -83,5 +84,31 @@
         ...
       }
       ```
-      
-      
+  - **JavaScript:** Es un lenguaje de programación usado para dar funcionalidad a los documentos de HTML.
+  - **JQuery:** Una librería de JavaScript diseñada para simplificar el escribir scripts para la interacción con el cliente.
+  - **AJAX:** _Asynchronus JavaScript and XML_, una tecnología web que permite crear aplicaciones asincronas de Javascript, dando la capacidad de realizar peticiones al servidor sin intervenir con el comportamiento de la página.
+  - **XML:** _Extensible Markup Language_, es un lenguaje de marcado que define una serie de reglas utilizadas para codificar documentos. Usado en programación web para transferir información.
+  - **JSON:** _JavaScript Object Notation_, es un formato de archivo que es usado para definir una estructura de objetos con atributo-valor. Es usado como el formato común de información durante comunicación asíncrona entre el navegador y el servidor.
+    
+    Ejemplo
+    ```JSON
+      {
+        "firstName": "John",
+        "lastName": "Smith",
+        "isAlive": true,
+        "age": 25,
+        "address": {
+          "streetAddress": "21 2nd Street",
+          "city": "New York",
+          "state": "NY",
+          "postalCode": "10021-3100"
+        },
+        "children": [],
+        "spouse": null
+      }
+    ```
+  - **Verbos HTTP:** 
+    - **POST:(CREATE)** Crea una petición para enviar información al servidor, usado para crear nuevos elementos.
+    - **GET:(READ)** Crea una petición solicitando una representación del recurso especificado. Las peticiones `GET` son para obtener información.
+    - **PUT:(UPDATE)** Crea una petición para reemplazar información en el servidor, usado para actualizar elementos.
+    - **DELETE:(DELETE)** Crea una petición para eliminar información en el servidor, usado para eliminar elementos.
