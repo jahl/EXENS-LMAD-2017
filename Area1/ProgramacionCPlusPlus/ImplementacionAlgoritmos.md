@@ -8,7 +8,6 @@
   
     Ejemplo:
 
-
     **Complejidad O(1): (Tiempo Constante)**
     Imaginemos que queremos ver si un entero es par o impar
     ```javascript
@@ -18,7 +17,7 @@
 
     **Complejidad O(n): (Tiempo Linear)**
     Imaginemos que tenemos un arreglo de tamaño "n", el cual recorreremos con un ciclo for:
-   ```javascript
+    ```javascript
     for(var i = 0; i < n; i++) {
         console.log(arr[i]);
     }
@@ -27,7 +26,7 @@
 
     **Complejidad O(n2): (Tiempo Cuadratico)**
     Imaginemos que tenemos una matriz de tamaño "NxN", la cual recorreremos con un ciclo for:
-   ```javascript
+    ```javascript
     for(var i = 0; i < n; i++) {
       for(var j = 0; j <n; i++) {
         console.log(mat[i][j]);
