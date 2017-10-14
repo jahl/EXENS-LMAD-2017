@@ -1,5 +1,5 @@
 ### Programación estructurada para Web: ###
-**Definición:** Conjunto de técnicas que han ido evolucionando aumentando considerablemente la productividad del programa reduciendo el tiempo de depuración y mantenimiento del mismo. Utiliza un número limitado de estructuras de control, reduciendo así considerablemente los errores. 
+**Definición:** Conjunto de técnicas que han ido evolucionando y aumentando considerablemente la productividad del programa reduciendo el tiempo de depuración y mantenimiento del mismo. Utiliza un número limitado de estructuras de control, reduciendo así considerablemente los errores. 
 
 **Conceptos notables:**
 
