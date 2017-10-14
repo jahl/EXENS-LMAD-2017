@@ -17,7 +17,7 @@
  - **Conflicto:** Relacionado con la red de valores del protagonista y es necesario llevar a cabo el arco del protagonista para su resolución.
  - **Espacios:** Constituye el lugar físico concreto en que se desarrollan las acciones de la obra. Pueden ser: abiertos, cerrados, presente, pasado o futuro.
  - **Punto de Vista:** Perspectiva desde la que se elige hacer la toma.
- - **Transiciones:** Fundido rápido, fundidos encadenados (Dissolve), fundido a “x” color, visual match cut, audio match cut, match cuto on idea, por dialogo, audio bridge, cortinilla, desenfoque.
- - **Tipos de Tramas:** Tradicional, In medias res, Espiral, Circular, Contemporánea.
+ - **Transiciones:** Fundido rápido, fundidos encadenados (Dissolve), fundido a “x” color, visual match cut, audio match cut, match cut on idea, por dialogo, audio bridge, cortinilla, desenfoque.
+ - **Tipos de Tramas:** Tradicional, In media res, Espiral, Circular, Contemporánea.
  - **Problemas Comunes:** Mantener el interés del público, sorpresa, coincidencia, melodrama, huecos, comedia, punto de vista.
 
