@@ -1,0 +1,10 @@
+Tris: Cantidad de lados que tiene una cara o un poligono de un objeto
+Pixeles: Guardar un color en info en la textura
+HighPolyModel: Modelo de alta resolución, con cualquier cantidad de geometria
+LowPolyModel:Modelo de baja resolución, se utilizan generalmente para videojuegos ya que son más optimizados
+Normal map: mapa de textura para proyectar disfrazar detalle de HP (HP = HighPoly) cuando esta mapeado en LP (LP= LowPoly)
+Diffuse map: Mapa de color
+Specular map: mapa de textura que Controla la intensidad de color de los brillos o highlights para luces en tiempo real
+Glow map: Brillo o iluminación dependiendo del objeto 
+Ambient oclusion: es un bake donde solo se proyectan las sombras de los objetos entre si
+Blending: Combinar, mezclar colores 
