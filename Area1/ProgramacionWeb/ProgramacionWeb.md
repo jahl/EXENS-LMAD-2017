@@ -84,6 +84,27 @@
         ...
       }
       ```
+      
+      - **Padre:** Cuando queremos seleccionar a todos los elementos que tengan un elemento especifico como padre.
+      
+      Ejemplo 
+      ```CSS
+      div > p { //Solo los <p> que sean hijos directos de un <div>.
+        ...
+      }
+      ```
+      
+      - **Pseudo-selector:** Selectores que se combinan con otros para situaciones especificas.
+      
+      Ejemplo 
+      ```CSS
+      a:active { //Solo los elementos <a> que estén con el cursor encima.
+        ...
+      }
+      p:first-child { //Solo los elementos <p> que sean el primer hijo de su padre.
+        ...
+      }
+      ```
   - **JavaScript:** Es un lenguaje de programación usado para dar funcionalidad a los documentos de HTML.
   - **JQuery:** Una librería de JavaScript diseñada para simplificar el escribir scripts para la interacción con el cliente.
   - **AJAX:** _Asynchronus JavaScript and XML_, una tecnología web que permite crear aplicaciones asincronas de Javascript, dando la capacidad de realizar peticiones al servidor sin intervenir con el comportamiento de la página.
@@ -112,3 +133,9 @@
     - **GET:(READ)** Crea una petición solicitando una representación del recurso especificado. Las peticiones `GET` son para obtener información.
     - **PUT:(UPDATE)** Crea una petición para reemplazar información en el servidor, usado para actualizar elementos.
     - **DELETE:(DELETE)** Crea una petición para eliminar información en el servidor, usado para eliminar elementos.
+  - **UI:** _User Interface_, termino usado para referirse al espacio en el que ocurren las interacciones entre el usuario y la máquina. En diseño web, se refiere al diseño visual que tiene la aplicación.
+  - **UX:** _User Experience_, se refiere a la experiencia del usuario al usar la aplicación, esto no solo se refiere al aspecto visual, si no a la responsividad de la aplicación, manejo de errores, la facilidad y comodidad con la que un usuario puede utilizar la página web.
+  
+**Recursos Externos:**
+
+- [Lista de Selectores de CSS - Sitio Web.](https://www.w3schools.com/cssref/css_selectors.asp)
