@@ -17,4 +17,4 @@
     - **Recursión:** Un bloque de código es ejecutado repetidamente al llamarse a si mismo una y otra vez hasta que una condición de terminación es alcanzada.
     
   - **Subrutinas:** Unidades de código que pueden llamarse, como: funciones, procedimientos, metodos (_functions, methods, procedures_) en forma de una sola instrucción.
-  - **Bloques:** Encapsulan varías instrucciones para que sean tratadas como una sola (`{}`, `BEGIN..END`).
+  - **Bloques:** Encapsulan varias instrucciones para que sean tratadas como una sola (`{}`, `BEGIN..END`).
