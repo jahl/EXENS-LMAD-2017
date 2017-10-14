@@ -17,3 +17,15 @@ lo cual influye en que el usuario se sienta satisfecho, feliz y encantado.
     - Experimentos (A/B, con prototipos)
     - Análisis de datos (KPI’s, métricas)
     - Arquitectura de información
+    
+- **Recomendaciones UI/UX:**
+
+Recomendaciones UI / UX
+  - La estructura del sistema no debe definir la interfaz, y viceversa.
+  - La necesidad a solventar pesa más que la tecnología que usas.
+  - Define bien el proyecto y la necesidad que busca suplir.
+  - Categoriza lo mejor posible a los usuarios de producto.
+  - Piensa en “flujos” y no en “features”.
+  - Crea prototipos rápidos. Deséchalos con la misma rapidez.
+  - Haz que el siguiente paso sea siempre obvio para el usuario.
+  - Simplifica todo, KISS (Keep It Simple Stupid!).
