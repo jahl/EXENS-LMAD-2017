@@ -20,5 +20,12 @@
   - **Glow Map:** Brillo o iluminación dependiendo del objeto. 
   - **Ambient Oclusion Map:** Mapa resultante del proceso de calcular las sombras que se proyectan múltiples objetos entre sí.
   - **Blending:** Combinar, mezclar colores 
+  - **Render Passes:** Son contenedores para los valores de los canales, los cuales ayudan a controlar cada aspecto de la escena.
+    - **Diffuse:** también conocido como beauty pass o color pass, es el pase principal, es todo el color de nuestro objeto, incluye iluminación difusa, color y mapas de color.
+    - **Shadow:** contiene las sombras de nuestro objeto o escena. Las sombras proyectadas son las que nuestro objeto proyecta sobre otro objeto 3D. Las sombras adjuntas son las que están proyectadas sobre el mismo objeto.
+    - **Ambient Occlusion:** Se refiere al bloqueo de la luz indirecta o difusa sobre un objeto. Se refiere a las áreas más oscuras del objeto, comúnmente pliegues, grietas y hendiduras. La oclusión ambiental es ocasionada por la inhabilidad de la luz indirecta para rebotar alrededor e iluminar áreas que están bloqueadas por un objeto cercano que absorbe los rayos de luz.
+    - **Specular:** También conocido como highlight pass, aísla los reflejos especulares de los objetos. El resultado es un render de todos los reflejos especulares en la escena sobre un fondo negro, sin ningún otro tipo de sombreado.
+    - **Reflection:** La reflexión se produce cuando la luz rebota en un objeto. Este pase puede complementar al specular.
+    - **Depth:** Este pase almacena la información de la profundidad en cada punto de la escena.
 
 
