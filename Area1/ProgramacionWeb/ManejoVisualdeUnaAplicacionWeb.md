@@ -19,8 +19,6 @@ lo cual influye en que el usuario se sienta satisfecho, feliz y encantado.
     - Arquitectura de información
     
 - **Recomendaciones UI/UX:**
-
-Recomendaciones UI / UX
   - La estructura del sistema no debe definir la interfaz, y viceversa.
   - La necesidad a solventar pesa más que la tecnología que usas.
   - Define bien el proyecto y la necesidad que busca suplir.
