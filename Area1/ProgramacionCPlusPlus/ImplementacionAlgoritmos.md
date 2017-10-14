@@ -40,5 +40,5 @@
 
   
 ### Recursos Externos ###
-- [Análisis de Algoritmos, Complejidad de algoritmos](https://www.youtube.com/watch?v=-OMysIB8FfY)
-- [Análisis de Algoritmos, Complejidad de algoritmos Recursivos](https://www.youtube.com/watch?annotation_id=annotation_1360253565&feature=iv&src_vid=-OMysIB8FfY&v=fPc5-Cmztxc)
+- [Análisis de Algoritmos, Complejidad de algoritmos - Video](https://www.youtube.com/watch?v=-OMysIB8FfY)
+- [Análisis de Algoritmos, Complejidad de algoritmos Recursivos - Video](https://www.youtube.com/watch?annotation_id=annotation_1360253565&feature=iv&src_vid=-OMysIB8FfY&v=fPc5-Cmztxc)
