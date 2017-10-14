@@ -5,7 +5,6 @@
 
 **Uso:** Las gráficas computacionales pueden dividirse en distintos campos, tales como:
   - Arte digital.
-  - Efectos especiales.
   - Videojuegos.
   - Efectos visuales.
   - Animación.
