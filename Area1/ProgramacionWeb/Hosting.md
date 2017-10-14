@@ -14,3 +14,4 @@
  - Con el dominio, y el servicio de hosting, puedes configurar el DNS para apuntar a tu dominio comprado (El DNS tarda tiempo en reflejar cambios, por lo que pueden pasar horas antes de que veas tu página levantada en el dominio que compraste).
  - Las distintas plataformas de hosting tienen formas diferentes de publicar tu aplicación, pero usualmente consiste en subir el código de fuente de tu aplicación a su plataforma, la cual se encargará de servirlo a los navegadores que visiten la página.
  - Si tu plataforma de hosteo y aplicación lo requieren, en este paso crearías las tablas, procedimientos y vistas de tu base de datos.
+ - Finalmente, si tu aplicación lo necesita, crea variables de configuración, de lo contrario, debería estár lista para usarse.
